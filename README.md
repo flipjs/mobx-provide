@@ -110,6 +110,26 @@ Basically, you have to have two exports for your component, named export and def
 
 In your test file, import the plain component, create a new instance of your store and pass it as props as you normally would. Simple!
 
+## Contributing
+
+To contribute, please follow these steps:
+
+1. Fork the repo
+1. Make a branch for your change
+1. Run `npm install`
+1. Make your changes
+1. Run `git add -A` to add your changes
+1. Run `npm run commit` (**Do not** use `git commit`)
+1. Push your changes with `git push`
+1. Create the Pull Request
+1. All done and celebrate!
+
+## Contributors
+
+* [Your name here](https://github.com/githubusername)
+
+>Be the first to contribute!
+
 ## License
 
 MIT © [Felipe Apostol](https://github.com/flipjs)
