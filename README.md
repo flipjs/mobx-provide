@@ -17,6 +17,10 @@ Do you like the convenience of importing store directly to your MobX component, 
 
 The `mobx-provide` is a decorator or higher-order component, that accepts a store object and a component as inputs, and returns a (enhanced) component.
 
+## Install
+
+`npm install --save mobx-provide`
+
 ## Usage
 
 ```js
@@ -126,9 +130,9 @@ To contribute, please follow these steps:
 
 ## Contributors
 
-* [Your name here](https://github.com/githubusername)
+**Be the the next one to contribute! Add your name below:**
 
->Be the first to contribute!
+* [Jordan Kohl](https://github.com/simpixelated)
 
 ## License
 
